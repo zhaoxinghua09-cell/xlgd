@@ -1,0 +1,62 @@
+{
+  "$comment": "Machine-readable umbrella index for XLGD. Single source for the ecosystem map; prose lives in README.md.",
+  "umbrella": {
+    "mark": "XLGD",
+    "meaning": "X is a distinction mark; XLGD is the umbrella mark for the governance line (theory + protocol). It is a provenance identifier, not an independent concept.",
+    "maintainer": "SynomosAI Governance Line",
+    "rights_holder": "赵兴华 / Steven Zhao·China",
+    "orcid": "https://orcid.org/0009-0001-0512-1237",
+    "contact": "zhaoxinghua09@gmail.com",
+    "website": "https://medxpert.cn",
+    "license": "MIT",
+    "entity_or_trademark_registered": false
+  },
+  "layers": [
+    {
+      "layer": "theory",
+      "name": "LGD",
+      "expansion": "Lifecycle Governance Doctrine",
+      "claim": "凡自治之物 — 有籍 registered · 有证 evidenced · 有门禁 gated — 由生到退，全程可溯、可证、可问责",
+      "repo": "https://github.com/zhaoxinghua09-cell/lgd-theory",
+      "citation_entry": "https://github.com/zhaoxinghua09-cell/lgd-theory/blob/main/CITE-ALL.md"
+    },
+    {
+      "layer": "protocol",
+      "name": "UIBC",
+      "role": "registry / evidence / gates — reference implementation",
+      "repo": "https://github.com/zhaoxinghua09-cell/uibc-core",
+      "license": "Apache-2.0"
+    },
+    {
+      "layer": "verifier",
+      "name": "silent-failure-catalog",
+      "role": "catalogue of silent-failure modes + negative controls",
+      "repo": "https://github.com/zhaoxinghua09-cell/silent-failure-catalog"
+    },
+    {
+      "layer": "benchmark",
+      "name": "uibc-competition",
+      "role": "UIBC-MEM memory-migration competition",
+      "repo": "https://github.com/zhaoxinghua09-cell/uibc-competition"
+    },
+    {
+      "layer": "agents",
+      "name": "agent-skills",
+      "role": "LGD / UIBC governance skill library",
+      "repo": "https://github.com/zhaoxinghua09-cell/agent-skills"
+    },
+    {
+      "layer": "entry",
+      "name": "lgd-hub",
+      "role": "theory → skills → product → service landing page",
+      "repo": "https://github.com/zhaoxinghua09-cell/lgd-hub"
+    }
+  ],
+  "parallel_lines": [
+    {
+      "name": "MedXpert",
+      "role": "medical-device regulatory applications — outside the umbrella",
+      "website": "https://medxpert.cn"
+    }
+  ]
+}

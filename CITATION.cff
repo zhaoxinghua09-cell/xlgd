@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use the XLGD umbrella mark, cite it as below."
+title: "XLGD — X distinction mark for LGD (Lifecycle Governance Doctrine)"
+abstract: >-
+  XLGD is the umbrella mark for a governance line that fronts a theory (LGD,
+  the Lifecycle Governance Doctrine: 凡自治之物 · 有籍 · 有证 · 有门禁), an
+  executable protocol (UIBC: registry / evidence / gates), a verifier-side
+  catalogue of silent-failure modes, and agent integration skills. The umbrella
+  itself is a package identifier for provenance; it is not an independent
+  concept and no entity or trademark has been registered.
+version: "0.1.0"
+date-released: "2026-10-09"
+license: MIT
+repository-code: "https://github.com/zhaoxinghua09-cell/xlgd"
+url: "https://medxpert.cn"
+keywords:
+  - lifecycle governance
+  - provenance
+  - evidence gating
+  - silent failure
+  - autonomous systems
+authors:
+  - family-names: "Zhao"
+    given-names: "Xinghua"
+    alias: "Steven Zhao·China"
+    orcid: "https://orcid.org/0009-0001-0512-1237"

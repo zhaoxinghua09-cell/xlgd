@@ -1,0 +1,34 @@
+# XLGD — umbrella index (llms.txt)
+
+> X is a distinction mark. XLGD is the umbrella mark for the governance line:
+> it fronts the theory (LGD) and the executable protocol (UIBC). MedXpert is a
+> **parallel** application line, not inside the umbrella. All names are project
+> identifiers only; no entity or trademark has been registered.
+
+## Layers and repositories
+
+- [LGD — theory](https://github.com/zhaoxinghua09-cell/lgd-theory): Lifecycle
+  Governance Doctrine. 凡自治之物 · 有籍 (registered) · 有证 (evidenced) · 有门禁 (gated).
+  Formal text, citation entry, released versions.
+- [UIBC — protocol](https://github.com/zhaoxinghua09-cell/uibc-core): registry /
+  evidence / gates reference implementation. Apache-2.0. `uibc demo` runs end to end.
+- [silent-failure-catalog — verifier side](https://github.com/zhaoxinghua09-cell/silent-failure-catalog):
+  catalogue of silent-failure modes with negative controls.
+- [uibc-competition — benchmark](https://github.com/zhaoxinghua09-cell/uibc-competition).
+- [agent-skills — agent integration](https://github.com/zhaoxinghua09-cell/agent-skills).
+- [lgd-hub — landing page](https://github.com/zhaoxinghua09-cell/lgd-hub): theory → skills → product → service.
+- [MedXpert — applications (parallel)](https://medxpert.cn): medical-device
+  regulatory line. Outside the umbrella.
+
+## Machine-readable entry
+
+- `ecosystem.json` — the umbrella index (layers, repositories, roles, licence, status).
+- `CITATION.cff` — how to cite the umbrella.
+
+## Citation
+
+> XLGD. (2026). *X distinction mark for LGD — Lifecycle Governance Doctrine*.
+> SynomosAI Governance Line. https://github.com/zhaoxinghua09-cell/xlgd
+
+Author / rights holder: 赵兴华 / Steven Zhao·China (ORCID 0009-0001-0512-1237).
+Contact: zhaoxinghua09@gmail.com. Licence: MIT (see LICENSE).
