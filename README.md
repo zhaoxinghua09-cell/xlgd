@@ -60,6 +60,18 @@ LGD 主张：**凡自治之物 — 有籍（registered）· 有证（evidenced�
 - 机构：SynomosAI Governance Line
 - 官网：https://medxpert.cn
 
+## Machine-readable entry · 机器可读入口
+
+伞层从"只有一段散文"升级为"有索引、可被机器解析"，让 AI 智能体与爬虫无需爬散文本即可解析 XLGD / LGD / UIBC 结构：
+
+| 文件 | 作用 |
+|---|---|
+| [ecosystem.json](ecosystem.json) | 伞层索引：层 / 仓 / 角色 / 许可 / 状态（唯一真源） |
+| [llms.txt](llms.txt) | 面向 LLM 的扁平入口 |
+| [CITATION.cff](CITATION.cff) | 机器可读引用元数据 |
+| [CHANGELOG.md](CHANGELOG.md) | 版本历史 |
+| [SECURITY.md](SECURITY.md) | 安全联系与披露路径 |
+
 ## 引用
 
 > XLGD. (2026). *X distinction mark for LGD — Lifecycle Governance Doctrine*. SynomosAI Governance Line.
