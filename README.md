@@ -81,7 +81,7 @@ LGD 主张：**凡自治之物 — 有籍（registered）· 有证（evidenced�
 
 - **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
 - **引用建议**：引用时请标注仓库名与原文链接 `https://github.com/zhaoxinghua09-cell/xlgd`
-  与权利人「赵兴华 / Steven Zhao·China」。
+  与权利人：© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
 - **品牌状态限定**：MedXpert、SynomosAI、LGD、UIBC、XLGD 等为相关项目标识，
   **均未申请实体注册、未申请商标注册**；出现仅作来源标识，
   不构成对法人实体或商标权的任何主张。
@@ -90,4 +90,5 @@ LGD 主张：**凡自治之物 — 有籍（registered）· 有证（evidenced�
 
 ---
 
-MIT © 赵兴华 / Steven Zhao·China
+代码许可 (code license) : MIT (see LICENSE)
+© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
