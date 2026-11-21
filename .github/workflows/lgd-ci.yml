@@ -1,0 +1,17 @@
+name: LGD CI
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: read
+
+jobs:
+  ci:
+    uses: LGD-AI/lgd-ci/.github/workflows/lgd-reusable-ci.yml@b893e1b54505a8c96e23839cff6b9a98859fbe04
+    with:
+      python-version: "3.11"
+      run-tests: true
+      require-skill-md: false
