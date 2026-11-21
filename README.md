@@ -1,4 +1,5 @@
 # XLGD — the umbrella mark
+[![Trust Score](https://img.shields.io/badge/Trust%20Score-98%2F100%20A+-2ea44f.svg)](https://github.com/zhaoxinghua09-cell/skillgate)
 
 > **X 是区别符。** XLGD 是治理线的**伞层标识**，覆盖理论（LGD）与可执行协议（UIBC）。
 > MedXpert 是**并行**的应用产品线，不在伞内。
