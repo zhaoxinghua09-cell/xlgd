@@ -1,0 +1,12 @@
+{
+  "schema": "ai-manifest/v1",
+  "repository": "zhaoxinghua09-cell/xlgd",
+  "role": "Code/tool repo: see README for a one-paragraph role statement.",
+  "what_it_is": "XLGD — X distinction mark for LGD (Lifecycle Governance Doctrine). 凡自治之物 · 全程治理论: registry, evidence, gates. Maintained by SynomosAI Governance Line.",
+  "what_it_is_not": "Not a third-party certification, compliance finding, or regulatory approval. Claims about quality are the author's own and separately labelled.",
+  "reproduce": "See the repository README for how to run or read the material; commands are verbatim and require no private network.",
+  "contact": "zhaoxinghua09-cell",
+  "evidence_state": "Machine-generated manifest, 2026-11-22. Descriptive fields mirror the repository description verbatim; no quality claim is asserted here.",
+  "last_verified": "2026-11-22",
+  "claims_policy": "No first-in-class, greenfield, or only-implementation claims. Each comparison states its own boundary."
+}
